@@ -13,7 +13,7 @@ class Database
         $port = "5432";
         $dbname = "hamboly";
         $user = "kukuna";
-        $password = "mamanlah";
+        $password = "****";
 
         $dsn = "pgsql:host=$host;port=$port;dbname=$dbname";
 
